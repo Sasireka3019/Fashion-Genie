@@ -1,0 +1,281 @@
+user_id,age,gender,session_id,timestamp,product_id,interaction_type,category,subcategory,brand,color,size,price,location,purchase_amount,product_url,description
+1,20,female,sess_011,2022-08-28 09:30:00,p_153,search,footwear,sandals,BeachLife,,,30,new york,,,
+1,20,female,sess_012,2022-08-29 11:00:00,p_154,search,clothing,shirts,ThreadFlex,,,40,new york,,,
+1,20,female,sess_013,2022-08-30 15:30:00,p_155,search,clothing,dresses,FashionFusion,,,55,america,,,
+1,20,female,sess_014,2022-08-31 18:00:00,p_154,search,accessories,bags,ChicCarry,,,40,america,,,
+1,20,female,sess_015,2022-09-01 21:30:00,p_157,search,footwear,sneakers,SportKick,,,80,india,,,
+1,20,female,sess_014,2022-09-02 10:00:00,p_158,search,accessories,watches,TimeLux,,,120,india,,,
+1,20,female,sess_017,2022-09-03 12:30:00,p_159,search,clothing,pants,ThreadFlex,,,40,germany,,,
+1,20,female,sess_018,2022-09-04 15:00:00,p_140,search,footwear,shoes,FootFlex,,,40,germany,,,
+1,20,female,sess_019,2022-09-05 17:30:00,p_141,search,accessories,belts,FashionLoop,,,35,france,,,
+1,20,female,sess_020,2022-09-04 20:00:00,p_142,search,accessories,watches,TimeLux,,,90,france,,,
+2,24,female,sess_011,2022-08-28 10:00:00,p_143,search,clothing,shirts,StyleCraze,,,25,new york,,,
+2,24,female,sess_012,2022-08-29 12:30:00,p_144,search,clothing,dresses,ElegantTrends,,,70,new york,,,
+2,24,female,sess_013,2022-08-30 14:00:00,p_145,search,footwear,sneakers,SportKick,,,90,america,,,
+2,24,female,sess_014,2022-08-31 18:30:00,p_144,search,accessories,bags,ChicCarry,,,80,america,,,
+2,24,female,sess_015,2022-09-01 21:00:00,p_147,search,clothing,pants,ThreadFlex,,,45,india,,,
+2,24,female,sess_014,2022-09-02 10:30:00,p_148,search,footwear,shoes,FootFlex,,,70,india,,,
+2,24,female,sess_017,2022-09-03 13:00:00,p_149,search,accessories,belts,FashionLoop,,,40,germany,,,
+2,24,female,sess_018,2022-09-04 15:30:00,p_170,search,accessories,watches,TimeLux,,,110,germany,,,
+2,24,female,sess_019,2022-09-05 18:00:00,p_171,search,clothing,shirts,StyleCraze,,,30,france,,,
+3,20,male,sess_011,2022-08-28 10:30:00,p_172,search,clothing,shirts,ThreadFlex,,,40,new york,,,
+3,20,male,sess_012,2022-08-29 13:00:00,p_173,search,clothing,dresses,FashionFusion,,,40,new york,,,
+3,20,male,sess_013,2022-08-30 14:30:00,p_174,search,footwear,sandals,BeachLife,,,25,america,,,
+3,20,male,sess_014,2022-08-31 19:00:00,p_175,search,accessories,bags,ChicCarry,,,70,america,,,
+3,20,male,sess_015,2022-09-01 21:30:00,p_174,search,footwear,sneakers,SportKick,,,100,india,,,
+3,20,male,sess_014,2022-09-02 11:00:00,p_177,search,accessories,watches,TimeLux,,,150,india,,,
+3,20,male,sess_017,2022-09-03 13:30:00,p_178,search,clothing,pants,ThreadFlex,,,50,germany,,,
+3,20,male,sess_018,2022-09-04 14:00:00,p_179,search,footwear,shoes,FootFlex,,,75,germany,,,
+3,20,male,sess_019,2022-09-05 18:30:00,p_180,search,accessories,belts,FashionLoop,,,30,france,,,
+5,30,female,sess_021,2022-09-04 09:30:00,p_181,search,clothing,shirts,StyleLane,,,40,new york,,,
+5,30,female,sess_022,2022-09-07 11:00:00,p_182,search,clothing,pants,ThreadFlex,,,50,new york,,,
+5,30,female,sess_023,2022-09-08 15:30:00,p_183,search,footwear,sneakers,SportKick,,,70,america,,,
+5,30,female,sess_024,2022-09-09 18:00:00,p_184,search,accessories,bags,ChicCarry,,,90,america,,,
+5,30,female,sess_025,2022-09-10 21:30:00,p_185,search,clothing,dresses,FashionFusion,,,55,india,,,
+5,30,female,sess_024,2022-09-11 10:00:00,p_184,search,accessories,watches,TimeLux,,,130,india,,,
+5,30,female,sess_027,2022-09-12 12:30:00,p_187,search,clothing,pants,ThreadFlex,,,45,germany,,,
+5,30,female,sess_028,2022-09-13 15:00:00,p_188,search,footwear,shoes,FootFlex,,,45,germany,,,
+5,30,female,sess_029,2022-09-14 17:30:00,p_189,search,accessories,belts,FashionLoop,,,35,france,,,
+5,30,female,sess_030,2022-09-15 20:00:00,p_190,search,accessories,watches,TimeLux,,,100,france,,,
+4,14,female,sess_031,2022-09-04 09:30:00,p_191,search,clothing,shirts,StyleLane,,,40,new york,,,
+4,14,female,sess_032,2022-09-07 11:00:00,p_192,search,clothing,pants,ThreadFlex,,,50,new york,,,
+4,14,female,sess_033,2022-09-08 15:30:00,p_193,search,footwear,sneakers,SportKick,,,70,america,,,
+4,14,female,sess_034,2022-09-09 18:00:00,p_194,search,accessories,bags,ChicCarry,,,90,america,,,
+4,14,female,sess_035,2022-09-10 21:30:00,p_195,search,clothing,dresses,FashionFusion,,,55,india,,,
+4,14,female,sess_034,2022-09-11 10:00:00,p_194,search,accessories,watches,TimeLux,,,130,india,,,
+4,14,female,sess_037,2022-09-12 12:30:00,p_197,search,clothing,pants,ThreadFlex,,,45,germany,,,
+4,14,female,sess_038,2022-09-13 15:00:00,p_198,search,footwear,shoes,FootFlex,,,45,germany,,,
+4,14,female,sess_039,2022-09-14 17:30:00,p_199,search,accessories,belts,FashionLoop,,,35,france,,,
+4,14,female,sess_040,2022-09-15 20:00:00,p_200,search,accessories,watches,TimeLux,,,100,france,,,
+5,30,female,sess_041,2022-09-16 09:30:00,p_201,search,clothing,shirts,StyleLane,,,40,new york,,,
+5,30,female,sess_042,2022-09-17 11:00:00,p_202,search,clothing,pants,ThreadFlex,,,50,new york,,,
+5,30,female,sess_043,2022-09-18 15:30:00,p_203,search,footwear,sneakers,SportKick,,,70,america,,,
+5,30,female,sess_044,2022-09-19 18:00:00,p_204,search,accessories,bags,ChicCarry,,,90,america,,,
+5,30,female,sess_045,2022-09-20 21:30:00,p_205,search,clothing,dresses,FashionFusion,,,55,india,,,
+5,30,female,sess_046,2022-09-21 10:00:00,p_206,search,accessories,watches,TimeLux,,,130,india,,,
+5,30,female,sess_047,2022-09-22 12:30:00,p_207,search,clothing,pants,ThreadFlex,,,45,germany,,,
+5,30,female,sess_048,2022-09-23 15:00:00,p_208,search,footwear,shoes,FootFlex,,,65,germany,,,
+5,30,female,sess_049,2022-09-24 17:30:00,p_209,search,accessories,belts,FashionLoop,,,35,france,,,
+5,30,female,sess_050,2022-09-25 20:00:00,p_210,search,accessories,watches,TimeLux,,,100,france,,,
+1,20,female,sess_008,2022-08-23 17:35:00,p_133,add_to_cart,accessories,hats,StyleCraze,brown,One Size,20,new york,0,https://example.com/p_133,Stylish brown hat to complete your outfit.
+1,20,female,sess_009,2022-08-24 11:10:00,p_135,add_to_cart,clothing,pants,ElegantTrends,black,M,50,new york,0,https://example.com/p_135,Stylish black pants for versatile styling.
+2,24,female,sess_008,2022-08-24 08:40:00,p_137,add_to_cart,footwear,sneakers,SportKick,black,10,90,america,0,https://example.com/p_137,Classic black sneakers for casual styling.
+2,24,female,sess_009,2022-08-25 10:35:00,p_139,add_to_cart,clothing,shirts,StyleCraze,blue,XL,25,america,0,https://example.com/p_139,Classic blue shirt for a casual look.
+3,20,male,sess_008,2022-08-24 13:40:00,p_141,add_to_cart,clothing,pants,ThreadFlex,gray,L,45,india,0,https://example.com/p_141,Comfortable gray pants for versatile styling.
+3,20,male,sess_009,2022-08-25 14:35:00,p_143,add_to_cart,clothing,dresses,LabelCloth,pink,S,55,india,0,https://example.com/p_143,Feminine pink dress for a charming look.
+4,14,female,sess_008,2022-08-25 09:40:00,p_145,add_to_cart,accessories,belts,FashionLoop,black,One Size,35,germany,0,https://example.com/p_145,Stylish black belt to accessorize your outfit.
+4,14,female,sess_009,2022-08-26 12:10:00,p_147,add_to_cart,footwear,sandals,BeachLife,brown,8,25,germany,0,https://example.com/p_147,Comfortable brown sandals for a relaxed look.
+5,30,female,sess_008,2022-08-24 16:40:00,p_149,add_to_cart,footwear,shoes,FootFlex,brown,9,60,france,0,https://example.com/p_149,Stylish brown shoes for a sophisticated look.
+5,30,female,sess_009,2022-08-25 17:35:00,p_151,add_to_cart,clothing,shirts,ChicDesigns,blue,XL,30,france,0,https://example.com/p_151,Classic blue shirt for a versatile outfit.
+1,20,female,sess_008,2022-08-23 17:35:00,p_133,add_to_cart,accessories,hats,StyleCraze,brown,One Size,20,new york,0,https://example.com/p_133,Stylish brown hat to complete your outfit.
+1,20,female,sess_009,2022-08-24 11:10:00,p_135,add_to_cart,clothing,pants,ElegantTrends,black,M,50,new york,0,https://example.com/p_135,Stylish black pants for versatile styling.
+2,24,female,sess_008,2022-08-24 08:40:00,p_137,add_to_cart,footwear,sneakers,SportKick,black,10,90,america,0,https://example.com/p_137,Classic black sneakers for casual styling.
+2,24,female,sess_009,2022-08-25 10:35:00,p_139,add_to_cart,clothing,shirts,StyleCraze,blue,XL,25,america,0,https://example.com/p_139,Classic blue shirt for a casual look.
+3,20,male,sess_008,2022-08-24 13:40:00,p_141,add_to_cart,clothing,pants,ThreadFlex,gray,L,45,india,0,https://example.com/p_141,Comfortable gray pants for versatile styling.
+3,20,male,sess_009,2022-08-25 14:35:00,p_143,add_to_cart,clothing,dresses,LabelCloth,pink,S,55,india,0,https://example.com/p_143,Feminine pink dress for a charming look.
+4,14,female,sess_008,2022-08-25 09:40:00,p_145,add_to_cart,accessories,belts,FashionLoop,black,One Size,35,germany,0,https://example.com/p_145,Stylish black belt to accessorize your outfit.
+4,14,female,sess_009,2022-08-26 12:10:00,p_147,add_to_cart,footwear,sandals,BeachLife,brown,8,25,germany,0,https://example.com/p_147,Comfortable brown sandals for a relaxed look.
+5,30,female,sess_008,2022-08-24 16:40:00,p_149,add_to_cart,footwear,shoes,FootFlex,brown,9,60,france,0,https://example.com/p_149,Stylish brown shoes for a sophisticated look.
+5,30,female,sess_009,2022-08-25 17:35:00,p_151,add_to_cart,clothing,shirts,ChicDesigns,blue,XL,30,france,0,https://example.com/p_151,Classic blue shirt for a versatile outfit.
+1,20,female,sess_008,2022-08-23 17:45:00,p_132,purchase,footwear,sandals,BeachLife,blue,9,30,new york,30,https://example.com/p_132,Ordered the comfortable blue sandals.
+1,20,female,sess_009,2022-08-24 11:25:00,p_134,purchase,clothing,shirts,ThreadFlex,white,L,40,new york,40,https://example.com/p_134,Ordered the classic white shirt.
+2,24,female,sess_008,2022-08-24 08:55:00,p_136,purchase,clothing,dresses,FashionFusion,red,S,55,america,55,https://example.com/p_136,Ordered the elegant
+1,20,female,sess_010,2022-08-25 14:20:00,p_137,add_to_cart,footwear,sneakers,SportKick,white,7,85,new york,0,https://example.com/p_137,Clean white sneakers for everyday wear.
+2,24,female,sess_010,2022-08-26 09:30:00,p_138,add_to_cart,accessories,bags,ChicCarry,black,One Size,70,america,0,https://example.com/p_138,Stylish black bag for all occasions.
+3,20,male,sess_010,2022-08-25 16:10:00,p_139,add_to_cart,clothing,shirts,StyleLane,blue,L,35,india,0,https://example.com/p_139,Casual blue shirt for a relaxed look.
+4,14,female,sess_010,2022-08-27 11:45:00,p_140,add_to_cart,clothing,pants,ThreadFlex,black,S,60,germany,0,https://example.com/p_140,Comfortable black pants for versatile styling.
+5,30,female,sess_010,2022-08-26 15:20:00,p_141,add_to_cart,clothing,dresses,ElegantTrends,white,XS,75,france,0,https://example.com/p_141,Elegant white dress for special occasions.
+1,20,female,sess_010,2022-08-25 14:20:00,p_137,add_to_cart,footwear,sneakers,SportKick,white,7,85,new york,0,https://example.com/p_137,Clean white sneakers for everyday wear.
+2,24,female,sess_010,2022-08-26 09:30:00,p_138,add_to_cart,accessories,bags,ChicCarry,black,One Size,70,america,0,https://example.com/p_138,Stylish black bag for all occasions.
+3,20,male,sess_010,2022-08-25 16:10:00,p_139,add_to_cart,clothing,shirts,StyleLane,blue,L,35,india,0,https://example.com/p_139,Casual blue shirt for a relaxed look.
+4,14,female,sess_010,2022-08-27 11:45:00,p_140,add_to_cart,clothing,pants,ThreadFlex,black,S,60,germany,0,https://example.com/p_140,Comfortable black pants for versatile styling.
+5,30,female,sess_010,2022-08-26 15:20:00,p_141,add_to_cart,clothing,dresses,ElegantTrends,white,XS,75,france,0,https://example.com/p_141,Elegant white dress for special occasions.
+1,20,female,sess_010,2022-08-25 15:00:00,p_137,purchase,footwear,sneakers,SportKick,white,7,85,new york,85,https://example.com/p_137,Ordered the clean white sneakers.
+2,24,female,sess_010,2022-08-26 11:30:00,p_138,purchase,accessories,bags,ChicCarry,black,One Size,70,america,70,https://example.com/p_138,Ordered the stylish black bag.
+3,20,male,sess_010,2022-08-25 17:50:00,p_139,purchase,clothing,shirts,StyleLane,blue,L,35,india,35,https://example.com/p_139,Ordered the casual blue shirt.
+4,14,female,sess_010,2022-08-27 14:20:00,p_140,purchase,clothing,pants,ThreadFlex,black,S,60,germany,60,https://example.com/p_140,Ordered the comfortable black pants.
+5,30,female,sess_010,2022-08-26 18:10:00,p_141,purchase,clothing,dresses,ElegantTrends,white,XS,75,france,75,https://example.com/p_141,Ordered the elegant white dress.
+1,20,female,sess_011,2022-08-26 10:00:00,p_142,view,clothing,shirts,StyleCraze,blue,M,25,new york,0,https://example.com/p_142,Classic blue shirt for a versatile outfit.
+1,20,female,sess_011,2022-08-26 10:15:00,p_143,view,clothing,pants,ElegantTrends,black,L,50,new york,0,https://example.com/p_143,Stylish black pants for a polished look.
+1,20,female,sess_011,2022-08-26 10:30:00,p_144,view,clothing,dresses,FashionFusion,red,S,60,new york,0,https://example.com/p_144,Elegant red dress for a special occasion.
+2,24,female,sess_012,2022-08-27 08:45:00,p_145,view,footwear,sandals,BeachLife,brown,10,40,america,0,https://example.com/p_145,Comfortable brown sandals for a relaxed look.
+2,24,female,sess_012,2022-08-27 09:00:00,p_146,view,footwear,shoes,FootFlex,black,9,75,america,0,https://example.com/p_146,Stylish black shoes for a sophisticated look.
+2,24,female,sess_012,2022-08-27 09:15:00,p_147,view,accessories,belts,FashionLoop,brown,One Size,30,america,0,https://example.com/p_147,Stylish brown belt to accessorize your outfit.
+3,20,male,sess_013,2022-08-26 14:30:00,p_148,view,accessories,watches,TimeLux,silver,One Size,110,india,0,https://example.com/p_148,Elegant silver watch to enhance your style.
+3,20,male,sess_013,2022-08-26 14:45:00,p_149,view,accessories,wallets,ChicCarry,brown,One Size,45,india,0,https://example.com/p_149,Stylish brown wallet to keep your essentials organized.
+3,20,male,sess_013,2022-08-26 15:00:00,p_150,view,accessories,hats,StyleCraze,black,One Size,20,india,0,https://example.com/p_150,Classic black hat for a trendy look.
+4,14,female,sess_014,2022-08-27 12:30:00,p_151,view,clothing,shirts,StyleLane,white,XL,35,germany,0,https://example.com/p_151,Crisp white shirt for a polished appearance.
+4,14,female,sess_014,2022-08-27 12:45:00,p_152,view,clothing,dresses,ElegantTrends,blue,S,70,germany,0,https://example.com/p_152,Elegant blue dress for special events.
+4,14,female,sess_014,2022-08-27 13:00:00,p_153,view,clothing,pants,ThreadFlex,gray,M,55,germany,0,https://example.com/p_153,Comfortable gray pants for versatile styling.
+5,30,female,sess_015,2022-08-26 16:30:00,p_154,view,footwear,sneakers,SportKick,white,8,90,france,0,https://example.com/p_154,Clean white sneakers for casual styling.
+5,30,female,sess_015,2022-08-26 16:45:00,p_155,view,footwear,boots,FootFlex,black,9,120,france,0,https://example.com/p_155,Stylish black boots for a trendy look.
+5,30,female,sess_015,2022-08-26 17:00:00,p_156,view,accessories,sunglasses,SunShade,blue,One Size,50,france,0,https://example.com/p_156,Chic blue sunglasses to shield your eyes.
+1,20,female,sess_011,2022-08-26 10:00:00,p_142,view,clothing,shirts,StyleCraze,blue,M,25,new york,0,https://example.com/p_142,Classic blue shirt for a versatile outfit.
+1,20,female,sess_011,2022-08-26 10:15:00,p_143,view,clothing,pants,ElegantTrends,black,L,50,new york,0,https://example.com/p_143,Stylish black pants for a polished look.
+1,20,female,sess_011,2022-08-26 10:30:00,p_144,view,clothing,dresses,FashionFusion,red,S,60,new york,0,https://example.com/p_144,Elegant red dress for a special occasion.
+2,24,female,sess_012,2022-08-27 08:45:00,p_145,view,footwear,sandals,BeachLife,brown,10,40,america,0,https://example.com/p_145,Comfortable brown sandals for a relaxed look.
+2,24,female,sess_012,2022-08-27 09:00:00,p_146,view,footwear,shoes,FootFlex,black,9,75,america,0,https://example.com/p_146,Stylish black shoes for a sophisticated look.
+2,24,female,sess_012,2022-08-27 09:15:00,p_147,view,accessories,belts,FashionLoop,brown,One Size,30,america,0,https://example.com/p_147,Stylish brown belt to accessorize your outfit.
+3,20,male,sess_013,2022-08-26 14:30:00,p_148,view,accessories,watches,TimeLux,silver,One Size,110,india,0,https://example.com/p_148,Elegant silver watch to enhance your style.
+3,20,male,sess_013,2022-08-26 14:45:00,p_149,view,accessories,wallets,ChicCarry,brown,One Size,45,india,0,https://example.com/p_149,Stylish brown wallet to keep your essentials organized.
+3,20,male,sess_013,2022-08-26 15:00:00,p_150,view,accessories,hats,StyleCraze,black,One Size,20,india,0,https://example.com/p_150,Classic black hat for a trendy look.
+6,20,female,sess_016,2022-08-28 09:30:00,p_158,search,footwear,sandals,BeachLife,,,30,new york,,,
+6,20,female,sess_017,2022-08-29 11:00:00,p_159,search,clothing,shirts,ThreadFlex,,,40,new york,,,
+6,20,female,sess_018,2022-08-30 15:30:00,p_155,search,clothing,dresses,FashionFusion,,,55,america,,,
+6,20,female,sess_019,2022-08-31 18:00:00,p_159,search,accessories,bags,ChicCarry,,,40,america,,,
+6,20,female,sess_015,2022-09-01 21:30:00,p_157,search,footwear,sneakers,SportKick,,,80,india,,,
+6,20,female,sess_019,2022-09-02 10:00:00,p_158,search,accessories,watches,TimeLux,,,120,india,,,
+6,20,female,sess_017,2022-09-03 12:30:00,p_159,search,clothing,pants,ThreadFlex,,,40,germany,,,
+6,20,female,sess_018,2022-09-04 15:00:00,p_140,search,footwear,shoes,FootFlex,,,40,germany,,,
+6,20,female,sess_019,2022-09-05 17:30:00,p_146,search,accessories,belts,FashionLoop,,,35,france,,,
+6,20,female,sess_020,2022-09-04 20:00:00,p_147,search,accessories,watches,TimeLux,,,90,france,,,
+7,29,female,sess_016,2022-08-28 10:00:00,p_148,search,clothing,shirts,StyleCraze,,,25,new york,,,
+7,29,female,sess_017,2022-08-29 12:30:00,p_149,search,clothing,dresses,ElegantTrends,,,70,new york,,,
+7,29,female,sess_018,2022-08-30 14:00:00,p_145,search,footwear,sneakers,SportKick,,,90,america,,,
+7,29,female,sess_019,2022-08-31 18:30:00,p_149,search,accessories,bags,ChicCarry,,,80,america,,,
+7,29,female,sess_015,2022-09-01 21:00:00,p_147,search,clothing,pants,ThreadFlex,,,45,india,,,
+7,29,female,sess_019,2022-09-02 10:30:00,p_148,search,footwear,shoes,FootFlex,,,70,india,,,
+7,29,female,sess_017,2022-09-03 13:00:00,p_149,search,accessories,belts,FashionLoop,,,40,germany,,,
+7,29,female,sess_018,2022-09-04 15:30:00,p_170,search,accessories,watches,TimeLux,,,110,germany,,,
+7,29,female,sess_019,2022-09-05 18:00:00,p_176,search,clothing,shirts,StyleCraze,,,30,france,,,
+8,20,male,sess_016,2022-08-28 10:30:00,p_177,search,clothing,shirts,ThreadFlex,,,40,new york,,,
+8,20,male,sess_017,2022-08-29 13:00:00,p_178,search,clothing,dresses,FashionFusion,,,40,new york,,,
+8,20,male,sess_018,2022-08-30 14:30:00,p_179,search,footwear,sandals,BeachLife,,,25,america,,,
+8,20,male,sess_019,2022-08-31 19:00:00,p_175,search,accessories,bags,ChicCarry,,,70,america,,,
+8,20,male,sess_015,2022-09-01 21:30:00,p_179,search,footwear,sneakers,SportKick,,,100,india,,,
+8,20,male,sess_019,2022-09-02 11:00:00,p_177,search,accessories,watches,TimeLux,,,150,india,,,
+8,20,male,sess_017,2022-09-03 13:30:00,p_178,search,clothing,pants,ThreadFlex,,,50,germany,,,
+8,20,male,sess_018,2022-09-04 16:00:00,p_179,search,footwear,shoes,FootFlex,,,60,germany,,,
+8,20,male,sess_019,2022-09-05 18:30:00,p_180,search,accessories,belts,FashionLoop,,,45,france,,,
+8,20,male,sess_020,2022-09-04 21:00:00,p_186,search,accessories,watches,TimeLux,,,130,france,,,
+9,37,male,sess_016,2022-08-28 11:00:00,p_187,search,clothing,shirts,StyleCraze,,,35,new york,,,
+9,37,male,sess_017,2022-08-29 13:30:00,p_188,search,clothing,dresses,ElegantTrends,,,65,new york,,,
+9,37,male,sess_018,2022-08-30 15:00:00,p_189,search,footwear,sneakers,SportKick,,,85,america,,,
+9,37,male,sess_019,2022-08-31 19:30:00,p_185,search,accessories,bags,ChicCarry,,,60,america,,,
+9,37,male,sess_015,2022-09-01 22:00:00,p_186,search,clothing,pants,ThreadFlex,,,30,india,,,
+9,37,male,sess_019,2022-09-02 11:30:00,p_187,search,footwear,shoes,FootFlex,,,50,india,,,
+9,37,male,sess_017,2022-09-03 14:00:00,p_188,search,accessories,belts,FashionLoop,,,30,germany,,,
+9,37,male,sess_018,2022-09-04 16:30:00,p_189,search,accessories,watches,TimeLux,,,100,germany,,,
+9,37,male,sess_019,2022-09-05 19:00:00,p_190,search,clothing,shirts,StyleCraze,,,40,france,,,
+9,37,male,sess_020,2022-09-04 21:30:00,p_196,search,accessories,watches,TimeLux,,,110,france,,,
+6,20,female,sess_016,2022-08-28 11:30:00,p_197,search,clothing,shirts,ThreadFlex,,,45,new york,,,
+6,20,female,sess_017,2022-08-29 14:00:00,p_198,search,clothing,dresses,FashionFusion,,,50,new york,,,
+6,20,female,sess_018,2022-08-30 15:30:00,p_199,search,footwear,sandals,BeachLife,,,40,america,,,
+6,20,female,sess_019,2022-08-31 20:00:00,p_195,search,accessories,bags,ChicCarry,,,50,america,,,
+6,20,female,sess_015,2022-09-01 22:30:00,p_196,search,footwear,sneakers,SportKick,,,70,india,,,
+6,20,female,sess_019,2022-09-02 12:00:00,p_197,search,accessories,watches,TimeLux,,,140,india,,,
+6,20,female,sess_017,2022-09-03 14:30:00,p_198,search,clothing,pants,ThreadFlex,,,60,germany,,,
+6,20,female,sess_018,2022-09-04 17:00:00,p_199,search,footwear,shoes,FootFlex,,,80,germany,,,
+6,20,female,sess_019,2022-09-05 19:30:00,p_200,search,accessories,belts,FashionLoop,,,55,france,,,
+6,20,female,sess_020,2022-09-04 22:00:00,p_206,search,accessories,watches,TimeLux,,,120,france,,,
+1,20,female,sess_010,2022-08-25 14:20:00,p_137,add_to_cart,footwear,sneakers,SportKick,white,7,85,new york,0,https://example.com/p_137,Clean white sneakers for everyday wear.
+2,24,female,sess_010,2022-08-26 09:30:00,p_138,add_to_cart,accessories,bags,ChicCarry,black,One Size,70,america,0,https://example.com/p_138,Stylish black bag for all occasions.
+3,20,male,sess_010,2022-08-25 16:10:00,p_139,add_to_cart,clothing,shirts,StyleLane,blue,L,35,india,0,https://example.com/p_139,Casual blue shirt for a relaxed look.
+4,14,female,sess_010,2022-08-27 11:45:00,p_140,add_to_cart,clothing,pants,ThreadFlex,black,S,60,germany,0,https://example.com/p_140,Comfortable black pants for versatile styling.
+5,30,female,sess_010,2022-08-26 15:20:00,p_141,add_to_cart,clothing,dresses,ElegantTrends,white,XS,75,france,0,https://example.com/p_141,Elegant white dress for special occasions.
+1,20,female,sess_010,2022-08-25 14:20:00,p_142,add_to_cart,footwear,shoes,FootFlex,brown,8,70,new york,0,https://example.com/p_142,Classic brown shoes for a polished look.
+2,24,female,sess_010,2022-08-26 09:30:00,p_143,add_to_cart,accessories,watches,TimeLux,silver,One Size,120,america,0,https://example.com/p_143,Elegant silver watch for timeless style.
+3,20,male,sess_010,2022-08-25 16:10:00,p_144,add_to_cart,clothing,shirts,ThreadFlex,gray,M,30,india,0,https://example.com/p_144,Comfortable gray shirt for everyday wear.
+4,14,female,sess_010,2022-08-27 11:45:00,p_145,add_to_cart,accessories,belts,FashionLoop,brown,One Size,25,germany,0,https://example.com/p_145,Stylish brown belt to complete your outfit.
+5,30,female,sess_010,2022-08-26 15:20:00,p_146,add_to_cart,accessories,sunglasses,ShadeMaster,black,One Size,50,france,0,https://example.com/p_146,Classic black sunglasses for a chic look.
+1,20,female,sess_010,2022-08-25 14:20:00,p_147,add_to_cart,footwear,sandals,BeachLife,blue,6,40,new york,0,https://example.com/p_147,Comfortable blue sandals for sunny days.
+2,24,female,sess_010,2022-08-26 09:30:00,p_148,add_to_cart,accessories,scarves,CozyWraps,green,One Size,25,america,0,https://example.com/p_148,Soft green scarf for added warmth.
+3,20,male,sess_010,2022-08-25 16:10:00,p_149,add_to_cart,clothing,pants,StyleLane,black,XL,40,india,0,https://example.com/p_149,Classic black pants for a polished look.
+4,14,female,sess_010,2022-08-27 11:45:00,p_150,add_to_cart,clothing,dresses,ElegantTrends,red,S,90,germany,0,https://example.com/p_150,Stunning red dress for special occasions.
+5,30,female,sess_010,2022-08-26 15:20:00,p_151,add_to_cart,clothing,jackets,StyleLane,black,M,55,france,0,https://example.com/p_151,Chic black jacket for stylish layering.
+1,20,female,sess_010,2022-08-25 14:20:00,p_152,add_to_cart,footwear,heels,ElegantSteps,black,8,60,new york,0,https://example.com/p_152,Classic black heels for a sophisticated look.
+2,24,female,sess_010,2022-08-26 09:30:00,p_153,add_to_cart,accessories,hats,StyleTrend,gray,One Size,20,america,0,https://example.com/p_153,Stylish gray hat for a trendy touch.
+3,20,male,sess_010,2022-08-25 16:10:00,p_154,add_to_cart,clothing,pants,ThreadFlex,navy blue,S,40,india,0,https://example.com/p_154,Classic navy blue pants for versatile styling.
+4,14,female,sess_010,2022-08-27 11:45:00,p_155,add_to_cart,clothing,skirts,FashionFusion,pink,M,30,germany,0,https://example.com/p_155,Pretty pink skirt for a feminine touch.
+5,30,female,sess_010,2022-08-26 15:20:00,p_156,add_to_cart,footwear,boots,StyleLane,brown,9,110,france,0,https://example.com/p_156,Stylish brown boots for a trendy look.
+1,20,female,sess_010,2022-08-25 14:20:00,p_157,add_to_cart,accessories,wallets,ChicCarry,brown,One Size,45,new york,0,https://example.com/p_157,Classic brown wallet for everyday use.
+2,24,female,sess_010,2022-08-26 09:30:00,p_158,add_to_cart,clothing,dresses,ElegantTrends,black,M,70,america,0,https://example.com/p_158,Elegant black dress for evening events.
+3,20,male,sess_010,2022-08-25 16:10:00,p_159,add_to_cart,clothing,shirts,StyleCraze,white,XL,25,india,0,https://example.com/p_159,Classic white shirt for a timeless look.
+4,14,female,sess_010,2022-08-27 11:45:00,p_160,add_to_cart,footwear,flats,ComfyFeet,beige,7,50,germany,0,https://example.com/p_160,Comfortable beige flats for all-day wear.
+5,30,female,sess_010,2022-08-26 15:20:00,p_161,add_to_cart,accessories,watches,TimeLux,gold,One Size,150,france,0,https://example.com/p_161,Luxurious gold watch for a sophisticated look.
+1,20,female,sess_010,2022-08-25 14:20:00,p_162,add_to_cart,clothing,jackets,StyleCraze,blue,M,60,new york,0,https://example.com/p_162,Stylish blue jacket for a trendy touch.
+2,24,female,sess_010,2022-08-26 09:30:00,p_163,add_to_cart,clothing,shorts,SportFlex,gray,S,30,america,0,https://example.com/p_163,Comfortable gray shorts for active days.
+3,20,male,sess_010,2022-08-25 16:10:00,p_164,add_to_cart,clothing,pants,ThreadFlex,beige,L,40,india,0,https://example.com/p_164,Classic beige pants for versatile styling.
+4,14,female,sess_010,2022-08-27 11:45:00,p_165,add_to_cart,clothing,skirts,FashionFusion,black,XS,25,germany,0,https://example.com/p_165,Chic black skirt for a stylish look.
+5,30,female,sess_010,2022-08-26 15:20:00,p_166,add_to_cart,accessories,scarves,CozyWraps,purple,One Size,20,france,0,https://example.com/p_166,Soft purple scarf for added warmth.
+1,20,female,sess_010,2022-08-25 14:20:00,p_167,add_to_cart,footwear,heels,ElegantSteps,red,9,65,new york,0,https://example.com/p_167,Striking red heels for a bold statement.
+2,24,female,sess_010,2022-08-26 09:30:00,p_168,add_to_cart,accessories,hats,StyleTrend,black,One Size,25,america,0,https://example.com/p_168,Classic black hat for a timeless look.
+3,20,male,sess_010,2022-08-25 16:10:00,p_169,add_to_cart,clothing,shirts,StyleCraze,white,L,30,india,0,https://example.com/p_169,Classic white shirt for a polished look.
+4,14,female,sess_010,2022-08-27 11:45:00,p_170,add_to_cart,clothing,pants,ThreadFlex,blue,XS,40,germany,0,https://example.com/p_170,Comfortable blue pants for a relaxed look.
+5,30,female,sess_010,2022-08-26 15:20:00,p_171,add_to_cart,accessories,watches,TimeLux,rose gold,One Size,130,france,0,https://example.com/p_171,Elegant rose gold watch for a sophisticated look.
+1,20,female,sess_010,2022-08-25 14:20:00,p_172,add_to_cart,clothing,skirts,FashionFusion,white,S,35,new york,0,https://example.com/p_172,Elegant white skirt for a feminine touch.
+2,24,female,sess_010,2022-08-26 09:30:00,p_173,add_to_cart,accessories,sunglasses,ShadeMaster,brown,One Size,40,america,0,https://example.com/p_173,Stylish brown sunglasses for a chic look.
+3,20,male,sess_010,2022-08-25 16:10:00,p_174,add_to_cart,clothing,shirts,StyleLane,gray,M,25,india,0,https://example.com/p_174,Comfortable gray shirt for everyday wear.
+4,14,female,sess_010,2022-08-27 11:45:00,p_175,add_to_cart,footwear,boots,StyleCraze,black,8,80,germany,0,https://example.com/p_175,Stylish black boots for a trendy look.
+5,30,female,sess_010,2022-08-26 15:20:00,p_176,add_to_cart,clothing,dresses,ElegantTrends,blue,XS,65,france,0,https://example.com/p_176,Chic blue dress for a fashionable look.
+1,20,female,sess_010,2022-08-25 14:20:00,p_177,add_to_cart,footwear,sandals,BeachLife,black,7,45,new york,0,https://example.com/p_177,Comfortable black sandals for casual outings.
+2,24,female,sess_010,2022-08-26 09:30:00,p_178,add_to_cart,accessories,scarves,CozyWraps,pink,One Size,15,america,0,https://example.com/p_178,Soft pink scarf for a touch of elegance.
+3,20,male,sess_010,2022-08-25 16:10:00,p_179,add_to_cart,clothing,shirts,StyleLane,white,L,30,india,0,https://example.com/p_179,Classic white shirt for a clean look.
+4,14,female,sess_010,2022-08-27 11:45:00,p_180,add_to_cart,clothing,pants,ThreadFlex,gray,M,50,germany,0,https://example.com/p_180,Comfortable gray pants for a relaxed style.
+5,30,female,sess_010,2022-08-26 15:20:00,p_181,add_to_cart,clothing,jackets,StyleCraze,black,XS,70,france,0,https://example.com/p_181,Chic black jacket for a fashionable look.
+1,20,female,sess_010,2022-08-25 14:20:00,p_182,add_to_cart,footwear,flats,ComfyFeet,black,8,50,new york,0,https://example.com/p_182,Comfortable black flats for everyday wear.
+2,24,female,sess_010,2022-08-26 09:30:00,p_183,add_to_cart,accessories,belts,FashionLoop,black,One Size,30,america,0,https://example.com/p_183,Classic black belt for versatile styling.
+3,20,male,sess_010,2022-08-25 16:10:00,p_184,add_to_cart,clothing,pants,ThreadFlex,khaki,L,40,india,0,https://example.com/p_184,Classic khaki pants for a timeless look.
+4,14,female,sess_010,2022-08-27 11:45:00,p_185,add_to_cart,clothing,dresses,ElegantTrends,green,S,80,germany,0,https://example.com/p_185,Chic green dress for a stylish statement.
+5,30,female,sess_010,2022-08-26 15:20:00,p_186,add_to_cart,accessories,wallets,ChicCarry,black,One Size,40,france,0,https://example.com/p_186,Stylish black wallet for your essentials.
+1,20,female,sess_010,2022-08-25 14:20:00,p_187,add_to_cart,clothing,shirts,StyleCraze,blue,XS,25,new york,0,https://example.com/p_187,Casual blue shirt for a relaxed look.
+2,24,female,sess_010,2022-08-26 09:30:00,p_188,add_to_cart,accessories,scarves,CozyWraps,white,One Size,20,america,0,https://example.com/p_188,Soft white scarf for added warmth.
+3,20,male,sess_010,2022-08-25 16:10:00,p_189,add_to_cart,clothing,pants,ThreadFlex,black,M,40,india,0,https://example.com/p_189,Classic black pants for versatile styling.
+4,14,female,sess_010,2022-08-27 11:45:00,p_190,add_to_cart,clothing,skirts,FashionFusion,blue,S,30,germany,0,https://example.com/p_190,Chic blue skirt for a trendy look.
+5,30,female,sess_010,2022-08-26 15:20:00,p_191,add_to_cart,footwear,sneakers,SportKick,black,7,85,france,0,https://example.com/p_191,Stylish black sneakers for casual wear.
+1,20,female,sess_010,2022-08-25 15:00:00,p_137,purchase,footwear,sneakers,SportKick,white,7,85,new york,85,https://example.com/p_137,Ordered the clean white sneakers.
+2,24,female,sess_010,2022-08-26 11:30:00,p_138,purchase,accessories,bags,ChicCarry,black,One Size,70,america,70,https://example.com/p_138,Ordered the stylish black bag.
+3,20,male,sess_010,2022-08-25 17:50:00,p_139,purchase,clothing,shirts,StyleLane,blue,L,35,india,35,https://example.com/p_139,Ordered the casual blue shirt.
+4,14,female,sess_010,2022-08-27 14:20:00,p_140,purchase,clothing,pants,ThreadFlex,black,S,60,germany,60,https://example.com/p_140,Ordered the comfortable black pants.
+5,30,female,sess_010,2022-08-26 18:10:00,p_141,purchase,clothing,dresses,ElegantTrends,white,XS,75,france,75,https://example.com/p_141,Ordered the elegant white dress.
+6,20,female,sess_011,2022-08-28 09:25:00,p_142,purchase,footwear,loafers,ClassicStep,brown,9,55,canada,55,https://example.com/p_142,Ordered the classic brown loafers.
+7,29,female,sess_011,2022-08-29 16:40:00,p_143,purchase,accessories,necklaces,CharmGlow,silver,One Size,45,australia,45,https://example.com/p_143,Ordered the charming silver necklace.
+5,30,female,sess_015,2022-08-26 16:45:00,p_155,view,footwear,boots,FootFlex,black,9,120,france,0,https://example.com/p_155,Stylish black boots for a trendy look.
+5,30,female,sess_015,2022-08-26 17:00:00,p_156,view,accessories,sunglasses,SunShade,blue,One Size,50,france,0,https://example.com/p_156,Chic blue sunglasses to shield your eyes.
+1,20,female,sess_011,2022-08-26 10:00:00,p_142,view,clothing,shirts,StyleCraze,blue,M,25,new york,0,https://example.com/p_142,Classic blue shirt for a versatile outfit.
+1,20,female,sess_011,2022-08-26 10:15:00,p_143,view,clothing,pants,ElegantTrends,black,L,50,new york,0,https://example.com/p_143,Stylish black pants for a polished look.
+1,20,female,sess_011,2022-08-26 10:30:00,p_144,view,clothing,dresses,FashionFusion,red,S,60,new york,0,https://example.com/p_144,Elegant red dress for a special occasion.
+2,24,female,sess_012,2022-08-27 08:45:00,p_145,view,footwear,sandals,BeachLife,brown,10,40,america,0,https://example.com/p_145,Comfortable brown sandals for a relaxed look.
+2,24,female,sess_012,2022-08-27 09:00:00,p_146,view,footwear,shoes,FootFlex,black,9,75,america,0,https://example.com/p_146,Stylish black shoes for a sophisticated look.
+3,20,male,sess_013,2022-08-28 14:20:00,p_147,view,clothing,jeans,DenimDelight,blue,M,70,india,0,https://example.com/p_147,Classic blue jeans for everyday comfort.
+3,20,male,sess_013,2022-08-28 14:45:00,p_148,view,clothing,shorts,ActiveGear,black,L,45,india,0,https://example.com/p_148,Black athletic shorts for your workouts.
+3,20,male,sess_013,2022-08-28 15:00:00,p_149,view,clothing,t-shirts,SportStyle,gray,M,30,india,0,https://example.com/p_149,Comfortable gray t-shirt with a sporty design.
+4,14,female,sess_014,2022-08-29 11:30:00,p_150,view,accessories,jewelry,GlamGlow,gold,One Size,55,germany,0,https://example.com/p_150,Elegant gold jewelry for a touch of glam.
+4,14,female,sess_014,2022-08-29 12:00:00,p_151,view,accessories,hats,StyleSense,white,One Size,25,germany,0,https://example.com/p_151,Chic white hat for sun protection.
+4,14,female,sess_014,2022-08-29 12:30:00,p_152,view,accessories,scarves,FashionFrost,blue,One Size,35,germany,0,https://example.com/p_152,Light blue scarf to accessorize your look.
+5,30,female,sess_015,2022-08-30 09:15:00,p_153,view,footwear,heels,Elegance,red,8,90,france,0,https://example.com/p_153,Red high heels for a stylish appearance.
+5,30,female,sess_015,2022-08-30 09:30:00,p_154,view,footwear,sneakers,SportFlex,gray,7,65,france,0,https://example.com/p_154,Gray sneakers with flexible sole for comfort.
+1,20,female,sess_011,2022-08-31 16:20:00,p_155,view,clothing,skirts,StyleFusion,green,S,40,new york,0,https://example.com/p_155,Elegant green skirt for versatile styling.
+1,20,female,sess_011,2022-08-31 16:45:00,p_156,view,clothing,blouses,ChicCharms,white,M,50,new york,0,https://example.com/p_156,White blouse with charming details.
+1,20,female,sess_011,2022-08-31 17:00:00,p_157,view,clothing,sweaters,CozyKnits,pink,S,55,new york,0,https://example.com/p_157,Soft pink sweater for cozy days.
+2,24,female,sess_012,2022-09-01 11:10:00,p_158,view,footwear,loafers,ClassicStep,brown,9,55,america,0,https://example.com/p_158,Classic brown loafers for timeless style.
+2,24,female,sess_012,2022-09-01 11:30:00,p_159,view,footwear,boots,AdventureTrek,black,8,85,america,0,https://example.com/p_159,Durable black boots for outdoor adventures.
+3,20,male,sess_013,2022-09-02 14:00:00,p_160,view,clothing,jackets,StreetStyle,gray,L,80,india,0,https://example.com/p_160,Stylish gray jacket for urban fashion.
+3,20,male,sess_013,2022-09-02 14:30:00,p_161,view,clothing,suits,FormalEdge,black,M,150,india,0,https://example.com/p_161,Classic black suit for formal occasions.
+3,20,male,sess_013,2022-09-02 14:45:00,p_162,view,clothing,blazers,UrbanChic,navy,M,70,india,0,https://example.com/p_162,Navy blazer for a sophisticated look.
+4,14,female,sess_014,2022-09-03 10:20:00,p_163,view,footwear,flats,EverydayComfort,beige,6,50,germany,0,https://example.com/p_163,Beige flats for all-day comfort.
+4,14,female,sess_014,2022-09-03 10:45:00,p_164,view,footwear,heels,Elegance,black,7,90,germany,0,https://example.com/p_164,Black high heels for a touch of elegance.
+5,30,female,sess_015,2022-09-04 13:15:00,p_165,view,accessories,watches,TimelessCharms,silver,One Size,60,france,0,https://example.com/p_165,Elegant silver watch for a timeless look.
+5,30,female,sess_015,2022-09-04 13:30:00,p_166,view,accessories,rings,DelicateGems,gold,One Size,45,france,0,https://example.com/p_166,Gold ring with delicate gemstones.
+1,20,female,sess_011,2022-09-05 10:10:00,p_167,view,footwear,sandals,BeachLife,blue,8,40,new york,0,https://example.com/p_167,Blue sandals for a beachy vibe.
+1,20,female,sess_011,2022-09-05 10:30:00,p_168,view,footwear,sneakers,SportFlex,white,7,70,new york,0,https://example.com/p_168,White sneakers with flexible design.
+2,24,female,sess_012,2022-09-06 09:00:00,p_169,view,clothing,t-shirts,GraphicTrend,black,M,25,america,0,https://example.com/p_169,Black t-shirt with trendy graphic.
+2,24,female,sess_012,2022-09-06 09:15:00,p_170,view,clothing,jeans,DenimDelight,gray,S,60,america,0,https://example.com/p_170,Gray jeans for a stylish casual look.
+3,20,male,sess_013,2022-09-07 12:20:00,p_171,view,footwear,boots,AdventureTrek,brown,10,85,india,0,https://example.com/p_171,Brown boots for outdoor exploration.
+3,20,male,sess_013,2022-09-07 12:45:00,p_172,view,footwear,shoes,FootFlex,brown,9,75,india,0,https://example.com/p_172,Brown shoes with comfortable design.
+4,14,female,sess_014,2022-09-08 15:10:00,p_173,view,clothing,skirts,FloralCharm,pink,M,45,germany,0,https://example.com/p_173,Pink floral skirt for a feminine touch.
+4,14,female,sess_014,2022-09-08 15:30:00,p_174,view,clothing,sweaters,CozyKnits,beige,S,55,germany,0,https://example.com/p_174,Beige sweater for a cozy ensemble.
+5,30,female,sess_015,2022-09-09 11:15:00,p_175,view,clothing,blouses,ChicCharms,blue,M,50,france,0,https://example.com/p_175,Blue blouse with charming details.
+5,30,female,sess_015,2022-09-09 11:30:00,p_176,view,clothing,dresses,FashionFusion,black,L,60,france,0,https://example.com/p_176,Black dress with stylish fusion design.
+1,20,female,sess_011,2022-09-10 14:20:00,p_177,view,clothing,jeans,DenimDelight,blue,S,70,new york,0,https://example.com/p_177,Classic blue jeans for versatile styling.
+1,20,female,sess_011,2022-09-10 14:45:00,p_178,view,clothing,t-shirts,EssentialComfort,white,L,30,new york,0,https://example.com/p_178,White t-shirt for everyday comfort.
+2,24,female,sess_012,2022-09-11 17:00:00,p_179,view,accessories,belts,LeatherCraft,brown,M,40,america,0,https://example.com/p_179,Brown leather belt for a stylish look.
+2,24,female,sess_012,2022-09-11 17:20:00,p_180,view,accessories,scarves,FashionFrost,gray,One Size,35,america,0,https://example.com/p_180,Gray scarf to accessorize your outfit.
+3,20,male,sess_013,2022-09-12 10:15:00,p_181,view,footwear,sneakers,SportKick,white,9,85,india,0,https://example.com/p_181,White sneakers for sporty style.
+3,20,male,sess_013,2022-09-12 10:30:00,p_182,view,footwear,sandals,BeachLife,black,10,45,india,0,https://example.com/p_182,Black sandals for beach adventures.
+4,14,female,sess_014,2022-09-13 14:00:00,p_183,view,footwear,heels,Elegance,blue,8,90,germany,0,https://example.com/p_183,Blue high heels for a touch of elegance.
+4,14,female,sess_014,2022-09-13 14:20:00,p_184,view,footwear,flats,EverydayComfort,black,7,50,germany,0,https://example.com/p_184,Black flats for all-day comfort.
+5,30,female,sess_015,2022-09-14 09:45:00,p_185,view,clothing,jackets,StreetStyle,black,S,80,france,0,https://example.com/p_185,Black street-style jacket for a cool look.
+5,30,female,sess_015,2022-09-14 10:00:00,p_186,view,clothing,skirts,StyleFusion,pink,M,40,france,0,https://example.com/p_186,Pink skirt with stylish fusion design.
+1,20,female,sess_011,2023-09-15 12:30:00,p_187,view,clothing,dresses,ElegantTrends,red,S,75,new york,0,https://example.com/p_187,Elegant red dress for a special occasion.
+1,20,female,sess_011,2023-09-15 11:30:00,p_187,view,footwear,sneakers,SportFlex,gray,6,70,new york,0,https://example.com/p_187,Gray sneakers with flexible design.
